@@ -2,6 +2,8 @@
 
 Projet de démarrage d'application desktop Dart/Flutter visant les distributions GNU/Linux, utilisant [le paquet GTK fourni par Canonical](https://pub.dev/packages/gtk) (Gnome *look & feel* avec [le thème Yaru](https://github.com/ubuntu/yaru), le thème par défaut de la distribution Ubuntu)
 
+> Le pack est basé sur [l'exemple fourni par le paquet officiel gtk2.*](https://pub.dev/packages/gtk/example)
+
 ## Getting Started
 
 ~~~bash
